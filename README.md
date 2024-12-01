@@ -17,10 +17,3 @@ There are a total of 5 folders as mentioned below:
 3. **Dependency Parsing:** This folder contains the code files and dataset of active passive sentence detection use case that have been demonstrated in Parsing session.
 4. **NER Code Demonstration:** This folder contains the code files of NER use case that have been demonstrated in NER and CRF session.
 5. **Custom NER Code Demonstration:** This folder contains the code files and dataset of CRF use case that have been demonstrated in NER and CRF session.
-
-### FAQs
-How do I download all the files in github?
-
-![](FAQ1.PNG)
-
-You can either download the zipped files as shown or you can use `git clone repo_url` to clone the repository, if `git` is installed on your computer
